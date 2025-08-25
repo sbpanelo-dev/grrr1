@@ -2,7 +2,6 @@ body {
   background: url("lu(1).png") no-repeat center center/cover;
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f8f8fa;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -85,4 +84,5 @@ body {
   font-size: 14px;
   color: #333;
 }
+
 
